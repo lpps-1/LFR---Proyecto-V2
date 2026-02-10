@@ -6,3 +6,17 @@ Since 2020, I have been participating in national level events in Pakistan. At t
 
 ### 3- Usage:
 Now lastly. How to operate Proyecto? Opearting Proyecto is very easy. First you will have to connect the battery connectors which will power up the circuit. After it the OLED will also lit up and start the animation with the robot name and the team name, if you want you can skip the animation by clicking the OKAY button. Once skipped or if the animation has completed the screen will show menu options through them you can scroll UP and DOWN through pressing the respective button and to select a function you will have to press OKAY then you will enter that mode, clicking OKAY will make the robot do the task (Sensor Readings, Line Following, etc). If you want to stop the robot from doing a specific task you can press the CANCEL button it will bring you back to the menu option. The robot can follow black line, white line and also can shift mid line tracing like after black line white lines starts it will adapt.
+
+### 4 - Circuit Diagram
+![Circuit Diagram](1%20-%20Circuit%20Diagram/LFR%20Proyecto%20V2%20-%20Circuit%20Diagram.png)
+
+### 5 - 3D Model
+<div style="display:flex; gap:12px; align-items:center;">
+  <img src="4%20-%20Pictures%20of%203D%20Model/2%20-%20Left%20Side%20VIew.png" width="280">
+  <img src="4%20-%20Pictures%20of%203D%20Model/1%20-%20Top%20VIew.png" width="280">
+  <img src="4%20-%20Pictures%20of%203D%20Model/3%20-%20Right%20Side%20VIew.png" width="280">
+</div>
+
+
+
+
