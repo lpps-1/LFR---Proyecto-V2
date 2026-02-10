@@ -18,20 +18,21 @@ Now lastly. How to operate Proyecto? Opearting Proyecto is very easy. First you 
 </div>
 
 ### 6 - Bill of Materials (BOM):
-## Bill of Materials (BOM)
+| #  | Component           | Specification / Notes                 | Quantity | Unit Price (USD) | Total (USD) | Link |
+|----|-------------------|-------------------------------------|----------|-----------------|------------|------|
+| 1  | Motor Driver       | TB6612FNG Dual Motor Driver          | 2        | 5.95            | 11.90      | [Pololu](https://www.pololu.com/product/713) |
+| 2  | Microcontroller    | Arduino Nano (ATmega328P, 5V)       | 3        | 4.33            | 12.99      | [Amazon](https://www.amazon.com/AYWHP-ATmega328P-Microcontroller-Compatible-Arduino/dp/B0DFGX3MSL/) |
+| 3  | Display            | OLED Display Module                   | 1        | 19.25           | 19.25      | [Pololu](https://www.pololu.com/product/3761) |
+| 4  | Battery            | 11.1V 2200mAh 3S 100C LiPo           | 1        | 43.99           | 43.99      | [Spektrum](https://www.spektrumrc.com/product/11.1v-2200mah-3s-100c-smart-lipo-battery-ic3/SPMX22003S100.html) |
+| 5  | IR Sensor Array    | 5-Sensor Array Board                  | 1        | 4.55            | 4.55       | [JSumo](https://www.jsumo.com/5-sensor-array-board) |
+| 6  | IR Sensor          | TCRT5000 Infrared Sensor Module       | 5        | 1.578           | 7.89       | [Amazon](https://www.amazon.com/HiLetgo-TCRT5000-Intelligent-Infrared-Tracking/dp/B082WZZJ58/) |
+| 7  | DC Gear Motor      | TT Metal Gear Motor (3V–6V)           | 4        | 2.495           | 9.98       | [Amazon](https://www.amazon.com/4Pcs-Metal-Motor-3V-6V-Ratio/dp/B099MX2J5B/) |
+| 8  | Wheels             | 55×40 mm Robot Wheels (Pair)          | 2        | 33.00           | 66.00      | [JSumo](https://www.jsumo.com/jsumo-robot-wheel-55x40mm-pair) |
+| 9  | Buck Converter     | LM2956 Adjustable Step-Down Converter | 2        | 3.995           | 7.99       | [Amazon](https://www.amazon.com/Converter-Adjustable-Regulator-Voltmeter-Display%EF%BC%88Pack/dp/B0F1M2SR31/) |
+| 10 | Push Buttons       | 6×6×4.5 mm Momentary Tactile Switch   | 100      | 0.0499          | 4.99       | [Amazon](https://www.amazon.com/DAOKI-100Pcs-6x6x4-5mm-Momentary-Tactile/dp/B07XF3YMJ4/) |
 
-| # | Component | Specification / Notes | Quantity | Link |
-|---|----------|----------------------|----------|------|
-| 1 | Motor Driver | TB6612FNG Dual Motor Driver | 2 | [Pololu](https://www.pololu.com/product/713) |
-| 2 | Microcontroller | Arduino Nano (ATmega328P, 5V) | 3 | [Amazon](https://www.amazon.com/AYWHP-ATmega328P-Microcontroller-Compatible-Arduino/dp/B0DFGX3MSL/) |
-| 3 | Display | OLED Display Module | 1 | [Pololu](https://www.pololu.com/product/3761) |
-| 4 | Battery | 11.1V 2200mAh 3S 100C LiPo | 1 | [Spektrum](https://www.spektrumrc.com/product/11.1v-2200mah-3s-100c-smart-lipo-battery-ic3/SPMX22003S100.html) |
-| 5 | IR Sensor Array | 5-Sensor Array Board | 1 | [JSumo](https://www.jsumo.com/5-sensor-array-board) |
-| 6 | IR Sensor | TCRT5000 Infrared Sensor Module | 5 | [Amazon](https://www.amazon.com/HiLetgo-TCRT5000-Intelligent-Infrared-Tracking/dp/B082WZZJ58/) |
-| 7 | DC Gear Motor | TT Metal Gear Motor (3V–6V) | 4 | [Amazon](https://www.amazon.com/4Pcs-Metal-Motor-3V-6V-Ratio/dp/B099MX2J5B/) |
-| 8 | Wheels | 55×40 mm Robot Wheels (Pair) | 2 | [JSumo](https://www.jsumo.com/jsumo-robot-wheel-55x40mm-pair) |
-| 9 | Buck Converter | LM2956 Adjustable Step-Down Converter | 2 | [Amazon](https://www.amazon.com/Converter-Adjustable-Regulator-Voltmeter-Display%EF%BC%88Pack/dp/B0F1M2SR31/) |
-|10 | Push Buttons | 6×6×4.5 mm Momentary Tactile Switch | 100 | [Amazon](https://www.amazon.com/DAOKI-100Pcs-6x6x4-5mm-Momentary-Tactile/dp/B07XF3YMJ4/) |
+**Total Cost: $189.54 USD**
+
 
 
 
