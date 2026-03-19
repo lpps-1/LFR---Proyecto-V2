@@ -18,22 +18,34 @@ Now lastly. How to operate Proyecto? Opearting Proyecto is very easy. First you 
 </div>
 
 ### 6 - Bill of Materials (BOM):
-| #  | Component           | Specification / Notes                 | Quantity | Total Price (USD) | Link |
-|----|-------------------|-------------------------------------|----------|-----------------|------|
-| 1  | Motor Driver       | TB6612FNG Dual Motor Driver          | 2        | 8.99            | [Amazon](https://www.amazon.com/gp/product/B0F43L7LLD) |
-| 2  | Arduino Nano       | Arduino Nano (ATmega328P, 5V)       | 3        | 12.99           | [Amazon](https://www.amazon.com/AYWHP-ATmega328P-Microcontroller-Compatible-Arduino/dp/B0DFGX3MSL/) |
-| 3  | OLED Display       | OLED Display Module                  | 1        | 17.99           | [Amazon](https://www.amazon.com/gp/product/B0DSHKDG9C) |
-| 4  | IR Sensor Array    | TCRT5000 5-Sensor Array Board        | 1        | 4.87            | [Amazon](https://www.amazon.com/gp/product/B07WCW4ZP6) |
-| 5  | IR Sensor          | TCRT5000 Infrared Sensor Module      | 5        | 7.89            | [Amazon](https://www.amazon.com/gp/product/B082WZZJ58) |
-| 6  | DC Gear Motor      | TT Metal Gear Motor (3V–6V)          | 4        | 9.99            | [Amazon](https://www.amazon.com/4Pcs-Metal-Motor-3V-6V-Ratio/dp/B099MX2J5B/) |
-| 7  | Wheels             | 55×40 mm Robot Wheels (Pair)         | 2        | 90.00           | [Amazon](https://www.amazon.com/gp/product/B0FQ2PZQL4) |
-| 8  | Buck Converter     | LM2956 Adjustable Step-Down Converter| 2        | 7.99            | [Amazon](https://www.amazon.com/Converter-Adjustable-Regulator-Voltmeter-Display%EF%BC%88Pack/dp/B0F1M2SR31/) |
-| 9  | Push Buttons       | 6×6×4.5 mm Momentary Tactile Switch  | 100      | 4.99            | [Amazon](https://www.amazon.com/DAOKI-100Pcs-6x6x4-5mm-Momentary-Tactile/dp/B07XF3YMJ4/) |
-| 10 | 11.1V 2200mAh 3S LiPo | LiPo Battery                        | 1        | 30.24           | [Hobby Lobby](https://www.hobbylobby.com.pk/product/gen-ace-lipo-2200mah-3s-35c) |
-| 11 | Battery Delivery   | Shipping in Pakistan                  | 1        | 1.79            | Local Pakistan |
-| 12 | Amazon Shipping & Import Charges | Fees & Handling             | -        | 164.56          | [Amazon](https://www.amazon.com/) |
-| **Total** |                     |                                     |          | **362.29**      | --- |
+### Project Component List
 
+| Name | Quantity | Total Price (USD) | Link |
+| :--- | :--- | :--- | :--- |
+| TB6612FNG Motor Driver | 5x | $5.74 | [aliexpress.com](https://www.aliexpress.com/item/1005010405309752.html) |
+| Arduino Nano | 5x | $14.06 | [aliexpress.com](https://www.aliexpress.com/item/1005006725908213.html) |
+| Oled Screen 1.3" | 4x | $7.24 | [aliexpress.com](https://www.aliexpress.com/item/1005008365029314.html) |
+| Lipo 3s | 1x | $30.21 | [hobbylobby.com.pk](https://www.hobbylobby.com.pk/product/gen-ace-lipo-2200mah-3s-35c) |
+| TCRT5000 5 Channel Array | 5x | $8.58 | [aliexpress.com](https://www.aliexpress.com/item/1005008733257121.html) |
+| TCRT5000 Individual | 10x | $4.66 | [aliexpress.com](https://www.aliexpress.com/item/32866136486.html) |
+| TT Motors | 4x | $9.72 | [aliexpress.com](https://www.aliexpress.com/item/1005006964177842.html) |
+| Rubber Wheels Pair | 4x | $29.48 | [aliexpress.com](https://www.aliexpress.com/item/1005009333838697.html) |
+| 6mm Hex Coupler | 4x | $7.36 | [aliexpress.com](https://www.aliexpress.com/item/1005009683741921.html) |
+| Buck Convertor LM2956 | 5x | $6.52 | [aliexpress.com](https://www.aliexpress.com/item/1005010400036740.html) |
+| Push Buttons | 1000x | $12.42 | [aliexpress.com](https://www.aliexpress.com/item/33029546857.html) |
+| Perf Board | 1x | $10.55 | [aliexpress.com](https://www.aliexpress.com/item/1005007977139251.html) |
+| Shrink Tube | 1x | $7.47 | [aliexpress.com](https://www.aliexpress.com/item/4000200124003.html) |
+| Breadboard Hard Wires | 1x | $7.20 | [aliexpress.com](https://www.aliexpress.com/item/1005007079142852.html) |
+| Male to Female Wires | 1x | $1.99 | [aliexpress.com](https://www.aliexpress.com/item/1005008070896908.html) |
+| Male to Male Wires | 1x | $1.99 | [aliexpress.com](https://www.aliexpress.com/item/1005008070896908.html) |
+| Female to Female Wires | 1x | $1.23 | [aliexpress.com](https://www.aliexpress.com/item/1005008070896908.html) |
+| Female Header Pins | 1x | $1.99 | [aliexpress.com](https://www.aliexpress.com/item/1005010604381492.html) |
+| Male Header Pins | 1x | $8.52 | [aliexpress.com](https://www.aliexpress.com/item/1005005509891182.html) |
+| **Taxes** | - | $113.62 | N/A |
+| **Shipping** | - | $9.69 | N/A |
+| **Total Cost** | - | **$306.16** | N/A |
+
+> 
 
 
 
