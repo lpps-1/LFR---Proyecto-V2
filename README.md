@@ -11,10 +11,31 @@ Now lastly. How to operate Proyecto? Opearting Proyecto is very easy. First you 
 ![Circuit Diagram](1%20-%20Circuit%20Diagram/LFR%20Proyecto%20V2%20-%20Circuit%20Diagram.png)
 
 ### 5 - 3D Model:
-<div style="display:flex; gap:12px; align-items:center;">
-  <img src="4%20-%20Pictures%20of%203D%20Model/2%20-%20Left%20Side%20VIew.png" width="280">
-  <img src="4%20-%20Pictures%20of%203D%20Model/1%20-%20Top%20VIew.png" width="280">
-  <img src="4%20-%20Pictures%20of%203D%20Model/3%20-%20Right%20Side%20VIew.png" width="280">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" colspan="2">
+        <p><strong>Top View</strong></p>
+        <img src="4%20-%20Pictures%20of%203D%20Model/Without%20Electronics/1%20-%20Top%20VIew.png" width="350">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p><strong>Left Side View</strong></p>
+        <img src="4%20-%20Pictures%20of%203D%20Model/Without%20Electronics/2%20-%20Left%20Side%20VIew.png" width="280">
+      </td>
+      <td align="center">
+        <p><strong>Right Side View</strong></p>
+        <img src="4%20-%20Pictures%20of%203D%20Model/Without%20Electronics/3%20-%20Right%20Side%20VIew.png" width="280">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <p><strong>Back View</strong></p>
+        <img src="4%20-%20Pictures%20of%203D%20Model/Without%20Electronics/4%20-%20Back%20Side%20VIew.png" width="350">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 6 - Bill of Materials (BOM):
