@@ -11,6 +11,12 @@ Now lastly. How to operate Proyecto? Opearting Proyecto is very easy. First you 
 ![Circuit Diagram](1%20-%20Circuit%20Diagram/LFR%20Proyecto%20V2%20-%20Circuit%20Diagram.png)
 
 ### 5 - 3D Model:
+
+
+TinkerCAD Links:
+* [Proyecto V2](https://www.tinkercad.com/things/l9xJPmTRQzA-proyecto-v2?sharecode=hnvhtCH3v41c5K6T4RtM-VqiNpLFxgLBMW4Wglu9lU8)
+* [Proyecto V2 - Electronics](https://www.tinkercad.com/things/5jzzp9ZvHWP-proyecto-v2-electronics?sharecode=e8wKs22imAD4GBXbVjDw6fI7VKfM8FQWDofzuGclVWU)
+  
 <div align="center">
   <table border="0">
     <tr>
