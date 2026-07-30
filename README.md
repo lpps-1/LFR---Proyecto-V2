@@ -1,3 +1,16 @@
+<div align="center">
+
+[Linktree](https://linktr.ee/team.lpps1) | [GitHub](https://github.com/lpps-1) | **Status: Competition Ready**
+
+</div>
+
+---
+
+## Team LPPS Overview
+
+> **Team LPPS**, an elite youth-led competitive robotics and engineering collective based in Pakistan. Completely self-funded and operating independently with zero corporate or institutional backing, our core members peak at just 15 years old, yet we consistently dominate university-level national arenas, securing over 9 major championship titles. We are renowned for pushing the boundaries of indigenous hardware innovation, having pioneered Pakistan's first locally manufactured high-grip silicone wheels for competitive robotics. We are also currently working on Pakistan's first custom high-amp motor drivers and 16-channel sensors capable of a 1MHz sample rate, alongside advanced autonomous firmware architectures, custom onboard OLED control systems, and high-performance line-following robotics engineered for premier platforms such as the National Engineering Robotics Contest (NERC) at NUST EME.
+
+
 ### 1 - Introduction:
 Hi! Line Follower Robot - Proyecto V2, is the second version of my line follower. The old one had some design flaws which I had solved in this design. So what I have made is a LFR with four TT motors for movement which will be paired with soft rubber tyre for extra traction as line followers need traction. Im using arduino nano for all the main processing, TB6612FNG as the motor driver for controlling the motors. What I have improved is that I have added a a 5 Channel TCRT5000 Array at the very front, which will be primarily detecting the line behind are two individual TCRT5000 Sensors on both sides that will be mainly used for detecting intersections and will also assist with turns. Two LEDs are also added that will turn on when the respective turn is being executed this will help in debugging and during a competition if the wrong LED turns on Ill know it will go off course and Ill be able to take the retry earlier instead of wasting time waiting for the robot to go off track. Lastly Im using a custom OS on the OLED which will show a starting animation which is also skippable then it will show multiple menu options. I have been working on it for about 4 months and its about to be completed but due to my upcoming final exams I have to delay it. The menu options will compromise of BLACK LINE, WHITE LINE, SENSOR CALIBRATION, MOTOR CALIBRATION, DIGITAL VALUES, and ANALOG VALUES. These modes will be selected through the installed four push buttons assigned as OKAY, CANCEL, UP and DOWN. My target is to make an OS which works like a programmer means during competition it will not leave the need of a laptop to change settings. All the threshold changes, sensor calibration and motor speed will be able to be changed using the buttons and the OS will make the robot more competitive and faster to edit the code instead of opening the laptop, going to the code file, changing the values and then finally uploading. 
 
